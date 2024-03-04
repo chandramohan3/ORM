@@ -6,6 +6,9 @@ To develop a Django application to store and retrieve data from a Book database 
 
 ## DESIGN STEPS
 
+![WhatsApp Image 2024-03-04 at 13 17 51_057e2951](https://github.com/chandramohan3/ORM/assets/142579775/c2ef54a1-6887-4d07-a638-526e2ced3f25)
+
+
 ### STEP 1:
 Clone the problem from GitHub
 
