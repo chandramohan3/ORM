@@ -49,7 +49,7 @@ class Book_DBAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![alt text](<Screenshot 2024-02-28 092112.png>)
+![web exp2](https://github.com/chandramohan3/ORM/assets/142579775/b826a2d1-a8c1-4fa2-a852-6ede8cc823ef)
 
 
 ## RESULT
